@@ -1,4 +1,7 @@
-hello.c
 /.vscode
+
+
 0
+*.o
 main
+another_app
